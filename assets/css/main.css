@@ -10143,7 +10143,7 @@ footer .hotline img {
   .logo.logo-width-1 {
     margin-right: 0;
     position: absolute;
-    /* left: 50%; */
+    left: 20%;
     /* transform: translateX(-50%); */
   }
   .logo.logo-width-1 a img {
